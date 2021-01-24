@@ -6,7 +6,7 @@
     "require": {
         "digitalstars/database": "*",
         "digitalstars/simple-api": "*",
-        "digitalstars/daemon": "*"           
+        "digitalstars/daemon": "*",
         "digitalstars/simplevk": "dev-testing"           
     }
 }
