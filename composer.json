@@ -7,6 +7,6 @@
         "digitalstars/database": "*",
         "digitalstars/simple-api": "*",
         "digitalstars/daemon": "*",
-        "digitalstars/simplevk": "dev-testing"
+        "digitalstars/simplevk": "dev"
     }
 }
