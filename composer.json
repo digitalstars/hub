@@ -2,7 +2,7 @@
     "name": "digitalstars/hub",
     "description": "hub",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "digitalstars/database": "*",
         "digitalstars/simple-api": "*"                                                                                                     
