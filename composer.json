@@ -4,7 +4,6 @@
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {
-        
         "digitalstars/DataBase": "*",
         "digitalstars/simple-api": "*"                                                                                                     
     },
