@@ -1,0 +1,11 @@
+{
+    "name": "digitalstars/hub",
+    "description": "hub",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        
+        "digitalstars/DataBase": "*",
+        "digitalstars/simple-api": "*"                                                                                                     
+    },
+}
