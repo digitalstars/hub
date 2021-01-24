@@ -6,5 +6,5 @@
     "require": {
         "digitalstars/DataBase": "*",
         "digitalstars/simple-api": "*"                                                                                                     
-    },
+    }
 }
