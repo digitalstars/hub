@@ -5,6 +5,8 @@
     "minimum-stability": "dev",
     "require": {
         "digitalstars/database": "*",
-        "digitalstars/simple-api": "*"                                                                                                     
+        "digitalstars/simple-api": "*",
+        "digitalstars/daemon": "*"           
+        "digitalstars/simplevk": "dev-testing"           
     }
 }
